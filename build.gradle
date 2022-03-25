@@ -35,4 +35,12 @@ ext {
     rulesVersion = '1.0.1'
     espressoVersion = '3.4.0'
     roomVersion = '2.4.2'
+
+    daggerVersion = '2.14.1'
+    retrofitVersion = '2.3.0'
+    retrofitGsonVersion = '2.2.0'
+    okhttpInterceptorVersion = '3.9.0'
+    picassoVersion = '2.5.2'
+    picassoDownloaderVersion = '1.0.2'
+    butterKnifeVersion = '8.8.1'
 }
